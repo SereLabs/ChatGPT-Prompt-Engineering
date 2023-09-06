@@ -1,6 +1,6 @@
 # ChatGPT-Prompt-Engineering
 
-Este repositorio contiene una recopilación de Jupyter Notebooks que fueron tomados del  [curso](https://learn.deeplearning.ai/chatgpt-prompt-eng/) de Prompt Engineering de openai. El objetivo principal de este repositorio es organizar y proporcionar acceso a los materiales del curso de una manera estructurada y accesible. Los notebooks del curso original (en la carpeta [`Notebooks`](./Notebooks)) fueron resumidos y traducidos a idioma español, sintetizados en 3 notebooks en la carpeta [`Notebooks Resumen`](./Notebooks%20Resumen)
+Este repositorio contiene una recopilación de Jupyter Notebooks que fueron tomados del  [curso](https://learn.deeplearning.ai/chatgpt-prompt-eng/) de Prompt Engineering de openai. El objetivo principal de este repositorio es organizar y proporcionar acceso a los materiales del curso de una manera estructurada y accesible. Los notebooks del curso original (en la carpeta [`Notebooks Curso`](./Notebooks%20Curso)) fueron resumidos y traducidos a idioma español, sintetizados en 3 notebooks en la carpeta [`Notebooks Resumen`](./Notebooks%20Resumen)
 
 ## Contenido
 1. [Principios de prompting y buenas prácticas](./Notebooks%20Resumen/1-Principios.ipynb) 
